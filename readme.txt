@@ -1,0 +1,1 @@
+Simply place arena2 in your Daggerfall install folder
